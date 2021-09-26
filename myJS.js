@@ -21,7 +21,7 @@ function changeColor(){
         //change the background color using JS
         block.setAttribute("class", "salmon");
         //Change the text of the color using the span id color-name
-        document.getElementById("color-name").innerHTML = "#F08080";
+        document.getElementById("color-name").innerHTML = "#F08080";  //got help from lecture 6 example
     }
 }
 
